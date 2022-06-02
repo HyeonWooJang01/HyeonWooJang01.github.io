@@ -1,9 +1,4 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/HyeonWooJang01/HyeonWooJang01.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+## 현우의 GitHub
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -11,27 +6,24 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# 개인 프로필 
+- 세명대학교 정보통신학부 재학중
+- 연락처 : 010 - 6451 - 8030
 
-- Bulleted
-- List
+# 학력
+- 세명대학교
+- 2020 3월 입학
+- 2025년 졸업 예정
 
-1. Numbered
-2. List
+# 원하는 직업
+- 프리랜서
+- 백엔드 개발자
+- 정보보안전문가
 
-**Bold** and _Italic_ and `Code` text
+# 앞으로의 목표
+- 지금은 c++이나 java와 같은 언어들의 기본적인 것들밖에 하지 못하지만 
+  더 많은 활동과 프로젝트를 하고 경험을 쌓아서 지금보다 더 멋지고
+  여러 언어를 구사할 수 있는 개발자가 될 것입니다.
+  
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HyeonWooJang01/HyeonWooJang01.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
